@@ -1,0 +1,13 @@
+{
+  "name": "sadb",
+  "version": "0.0.1",
+  "description": "opplanere bot",
+  "main": "bot.js",
+  "author": "rogga",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "mysql": "^2.15.0",
+    "snekfetch": "^4.0.4"
+  }
+}
